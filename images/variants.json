@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ficus",
+    "original": 750162,
+    "generated": 181936,
+    "widths": [
+      360,
+      640,
+      736
+    ]
+  },
+  {
+    "id": "monstera",
+    "original": 1202172,
+    "generated": 374197,
+    "widths": [
+      360,
+      640,
+      750
+    ]
+  },
+  {
+    "id": "palm",
+    "original": 1476850,
+    "generated": 521319,
+    "widths": [
+      360,
+      640,
+      736
+    ]
+  },
+  {
+    "id": "pothos",
+    "original": 825688,
+    "generated": 203188,
+    "widths": [
+      360,
+      640,
+      736
+    ]
+  },
+  {
+    "id": "sansevieria",
+    "original": 756289,
+    "generated": 184850,
+    "widths": [
+      360,
+      640,
+      736
+    ]
+  },
+  {
+    "id": "zamioculcas",
+    "original": 1122923,
+    "generated": 244690,
+    "widths": [
+      360,
+      640,
+      736
+    ]
+  }
+]

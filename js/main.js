@@ -1,4 +1,4 @@
-// В КР №1 JavaScript используется только для открытия нативного диалога.
+// В КР №3 JavaScript используется только для открытия нативного диалога.
 // Кнопка закрытия и Escape работают средствами HTML <dialog>.
 document.querySelectorAll('[data-open-modal]').forEach((button) => {
   button.addEventListener('click', () => {
