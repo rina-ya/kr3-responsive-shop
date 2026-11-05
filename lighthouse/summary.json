@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-06",
+  "category": "accessibility",
+  "formFactor": "mobile",
+  "pages": [
+    {
+      "page": "index.html",
+      "score": 100,
+      "version": "13.6.0",
+      "failures": []
+    },
+    {
+      "page": "catalog.html",
+      "score": 100,
+      "version": "13.6.0",
+      "failures": []
+    },
+    {
+      "page": "order.html",
+      "score": 100,
+      "version": "13.6.0",
+      "failures": []
+    }
+  ]
+}

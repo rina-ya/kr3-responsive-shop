@@ -1,0 +1,472 @@
+{
+  "date": "2026-11-06",
+  "widths": [
+    360,
+    430,
+    768,
+    1024,
+    1440
+  ],
+  "pages": [
+    {
+      "file": "care.html",
+      "widths": [
+        {
+          "width": 360,
+          "scrollWidth": 360
+        },
+        {
+          "width": 430,
+          "scrollWidth": 430
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768
+        },
+        {
+          "width": 1024,
+          "scrollWidth": 1024
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440
+        }
+      ]
+    },
+    {
+      "file": "catalog.html",
+      "widths": [
+        {
+          "width": 360,
+          "scrollWidth": 360
+        },
+        {
+          "width": 430,
+          "scrollWidth": 430
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768
+        },
+        {
+          "width": 1024,
+          "scrollWidth": 1024
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440
+        }
+      ]
+    },
+    {
+      "file": "compare.html",
+      "widths": [
+        {
+          "width": 360,
+          "scrollWidth": 360
+        },
+        {
+          "width": 430,
+          "scrollWidth": 430
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768
+        },
+        {
+          "width": 1024,
+          "scrollWidth": 1024
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440
+        }
+      ]
+    },
+    {
+      "file": "contacts.html",
+      "widths": [
+        {
+          "width": 360,
+          "scrollWidth": 360
+        },
+        {
+          "width": 430,
+          "scrollWidth": 430
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768
+        },
+        {
+          "width": 1024,
+          "scrollWidth": 1024
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440
+        }
+      ]
+    },
+    {
+      "file": "index.html",
+      "widths": [
+        {
+          "width": 360,
+          "scrollWidth": 360
+        },
+        {
+          "width": 430,
+          "scrollWidth": 430
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768
+        },
+        {
+          "width": 1024,
+          "scrollWidth": 1024
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440
+        }
+      ]
+    },
+    {
+      "file": "order.html",
+      "widths": [
+        {
+          "width": 360,
+          "scrollWidth": 360
+        },
+        {
+          "width": 430,
+          "scrollWidth": 430
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768
+        },
+        {
+          "width": 1024,
+          "scrollWidth": 1024
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440
+        }
+      ]
+    },
+    {
+      "file": "product-ficus.html",
+      "widths": [
+        {
+          "width": 360,
+          "scrollWidth": 360
+        },
+        {
+          "width": 430,
+          "scrollWidth": 430
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768
+        },
+        {
+          "width": 1024,
+          "scrollWidth": 1024
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440
+        }
+      ]
+    },
+    {
+      "file": "product-palm.html",
+      "widths": [
+        {
+          "width": 360,
+          "scrollWidth": 360
+        },
+        {
+          "width": 430,
+          "scrollWidth": 430
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768
+        },
+        {
+          "width": 1024,
+          "scrollWidth": 1024
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440
+        }
+      ]
+    },
+    {
+      "file": "product-pothos.html",
+      "widths": [
+        {
+          "width": 360,
+          "scrollWidth": 360
+        },
+        {
+          "width": 430,
+          "scrollWidth": 430
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768
+        },
+        {
+          "width": 1024,
+          "scrollWidth": 1024
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440
+        }
+      ]
+    },
+    {
+      "file": "product-sansevieria.html",
+      "widths": [
+        {
+          "width": 360,
+          "scrollWidth": 360
+        },
+        {
+          "width": 430,
+          "scrollWidth": 430
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768
+        },
+        {
+          "width": 1024,
+          "scrollWidth": 1024
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440
+        }
+      ]
+    },
+    {
+      "file": "product-zamioculcas.html",
+      "widths": [
+        {
+          "width": 360,
+          "scrollWidth": 360
+        },
+        {
+          "width": 430,
+          "scrollWidth": 430
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768
+        },
+        {
+          "width": 1024,
+          "scrollWidth": 1024
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440
+        }
+      ]
+    },
+    {
+      "file": "product.html",
+      "widths": [
+        {
+          "width": 360,
+          "scrollWidth": 360
+        },
+        {
+          "width": 430,
+          "scrollWidth": 430
+        },
+        {
+          "width": 768,
+          "scrollWidth": 768
+        },
+        {
+          "width": 1024,
+          "scrollWidth": 1024
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1440
+        }
+      ]
+    }
+  ],
+  "axe": [
+    {
+      "file": "care.html",
+      "width": 360,
+      "violations": []
+    },
+    {
+      "file": "care.html",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "file": "catalog.html",
+      "width": 360,
+      "violations": []
+    },
+    {
+      "file": "catalog.html",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "file": "compare.html",
+      "width": 360,
+      "violations": []
+    },
+    {
+      "file": "compare.html",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "file": "contacts.html",
+      "width": 360,
+      "violations": []
+    },
+    {
+      "file": "contacts.html",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "file": "index.html",
+      "width": 360,
+      "violations": []
+    },
+    {
+      "file": "index.html",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "file": "order.html",
+      "width": 360,
+      "violations": []
+    },
+    {
+      "file": "order.html",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "file": "product-ficus.html",
+      "width": 360,
+      "violations": []
+    },
+    {
+      "file": "product-ficus.html",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "file": "product-palm.html",
+      "width": 360,
+      "violations": []
+    },
+    {
+      "file": "product-palm.html",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "file": "product-pothos.html",
+      "width": 360,
+      "violations": []
+    },
+    {
+      "file": "product-pothos.html",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "file": "product-sansevieria.html",
+      "width": 360,
+      "violations": []
+    },
+    {
+      "file": "product-sansevieria.html",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "file": "product-zamioculcas.html",
+      "width": 360,
+      "violations": []
+    },
+    {
+      "file": "product-zamioculcas.html",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "file": "product.html",
+      "width": 360,
+      "violations": []
+    },
+    {
+      "file": "product.html",
+      "width": 1440,
+      "violations": []
+    }
+  ],
+  "imageChoices": [
+    {
+      "width": 360,
+      "src": "monstera-640.avif",
+      "display": 328
+    },
+    {
+      "width": 430,
+      "src": "monstera-640.avif",
+      "display": 398
+    },
+    {
+      "width": 768,
+      "src": "monstera-640.avif",
+      "display": 500
+    },
+    {
+      "width": 1024,
+      "src": "monstera-640.avif",
+      "display": 448.078125
+    },
+    {
+      "width": 1440,
+      "src": "monstera-640.avif",
+      "display": 567.3125
+    }
+  ],
+  "scenarios": [
+    "Native mobile menu with keyboard; skip-link moves focus to main",
+    "CSS category selection and reset; collapsible filter",
+    "Comparison table scrolls with keyboard inside its region",
+    "Modal keeps background controls out of Tab order, closes with Escape and returns focus",
+    "Order and contact forms validate without JavaScript; no query or network submission",
+    "Reduced-motion preference respected"
+  ],
+  "consoleErrors": [],
+  "browser": "156.0.8078.80",
+  "status": "passed"
+}
